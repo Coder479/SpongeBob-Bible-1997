@@ -7,4 +7,4 @@ This repository hosts the 1997 SpongeBob Bible PDF, originally preserved on Arch
 Enjoy this unique slice of pop culture history!
 
 
-![Thumbs Up GIF](https://github.com/Coder479/Spongebob-Bible-1997/blob/main/assets/Thumbs_Up.gif?raw=true)
+![Thumbs Up GIF](./assets/Thumbs_Up.gif)
